@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+#heading {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.show {
+  display: none;
+}
+
+.color {
+  color: red;
+  font-size: 3rem;
+}
